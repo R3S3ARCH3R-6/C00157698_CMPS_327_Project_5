@@ -1,2 +1,2 @@
-# C00157698_CMPS_327_Project_5
-This repository contains my submission for Project 5 in Dr. Arun Kulshreshth's CMPS 327-001 class.
+# CMPS327-AStar-Game-Starter-Code
+CMPS 327 A Star Game Starter Code
